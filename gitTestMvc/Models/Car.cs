@@ -7,5 +7,6 @@
         public string Color { get; set; }
         public DateTime BuiltYear { get; set; }
         public string OwnerName { get; set; }
+        public string InSlider { get; set; }
     }
 }
